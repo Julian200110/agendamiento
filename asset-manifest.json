@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agendamiento/static/css/main.627d2579.css",
+    "main.js": "/agendamiento/static/js/main.7d0f59c7.js",
+    "index.html": "/agendamiento/index.html",
+    "main.627d2579.css.map": "/agendamiento/static/css/main.627d2579.css.map",
+    "main.7d0f59c7.js.map": "/agendamiento/static/js/main.7d0f59c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.627d2579.css",
+    "static/js/main.7d0f59c7.js"
+  ]
+}

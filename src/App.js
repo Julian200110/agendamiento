@@ -18,7 +18,7 @@ function App() {
 			<serviceContext.Provider value={service}>
 				<Routes>
 					<Route
-						path='/'
+						path='/agendamiento'
 						element={
 							<Services
 								setServiceData={setServiceData}
